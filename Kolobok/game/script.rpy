@@ -96,8 +96,12 @@ label start:
     hide akt1
     stop music
 
+label scene01: # Кот и Деревня
     
-label scene01: # Кот и Лиса у сарая
+    "ТЕСТ"
+    "здесь будет добавлена первая глава"
+    
+label scene02: # Кот и Лиса у сарая
     
     # Запускаем шум дождя
     play music shum loop volume 0.7 
